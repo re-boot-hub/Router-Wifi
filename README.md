@@ -15,7 +15,7 @@ If you want to use a secondary network card you have to disable the primary netw
 <H1>  Aggiornamenti futuri / Future updates </H1><br>
 
 ITA
-1. Implementazione GUI wxWidgets-3.2.1 <br>
+1. Implementazione GUI wxWidgets-3.2.1
 2. estendere il WiFi in ingresso (Ripetitore WiFi) <br>
 <br>
 
