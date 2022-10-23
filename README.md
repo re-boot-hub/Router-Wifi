@@ -13,6 +13,7 @@ The program works only with network adapters that support monitor mode <br>
 If you want to use a secondary network card you have to disable the primary network card with Tmac (Link off wifi) <br> <br>
 
 <H1>  Aggiornamenti futuri / Future updates </H1>
+
 1. Implementazione GUI wxWidgets-3.2.1 <br>
 2. estendere il WiFi in ingresso (Ripetitore WiFi) <br>
 Esempio
@@ -20,8 +21,7 @@ Esempio
 <img src="https://m.media-amazon.com/images/I/41wAKp11-zS._AC_SL1000_.jpg" width="200" height="300"> 
 </a>
  
-
- <br><br>
+<br><br>
 
 1. GUI implementation with wxWidgets-3.2.1
 2. Extend incoming WiFi (WiFi Repeater) <br>
