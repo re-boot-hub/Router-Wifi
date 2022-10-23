@@ -20,7 +20,7 @@ ITA
 Esempio
 
 
-<a href="https://www.amazon.it/TP-Link-RE190-Ripetitore-Wireless-Compatibile/dp/B081HFWWSV?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15C6SJ4H3OENK&keywords=ripetitore&qid=1666522719&qu=eyJxc2MiOiI0LjAyIiwicXNhIjoiMy44NiIsInFzcCI6IjMuMTMifQ%3D%3D&sprefix=ripetitor%2Caps%2C309&sr=8-6&linkCode=ll1&tag=12345678054cd-21&linkId=7e90abe8e5c30a40a6ee19f33e9ea4c4&ref_=as_li_ss_tl" target="blank"><img align="center" src="https://m.media-amazon.com/images/I/41wAKp11-zS._AC_SL1000_.jpg" height="30" width="40" /></a>
+<a href="https://www.amazon.it/TP-Link-RE190-Ripetitore-Wireless-Compatibile/dp/B081HFWWSV?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15C6SJ4H3OENK&keywords=ripetitore&qid=1666522719&qu=eyJxc2MiOiI0LjAyIiwicXNhIjoiMy44NiIsInFzcCI6IjMuMTMifQ%3D%3D&sprefix=ripetitor%2Caps%2C309&sr=8-6&linkCode=ll1&tag=12345678054cd-21&linkId=7e90abe8e5c30a40a6ee19f33e9ea4c4&ref_=as_li_ss_tl" target="blank"><img align="center" src="https://m.media-amazon.com/images/I/41wAKp11-zS._AC_SL1000_.jpg" height="100" width="200" /></a>
  
 <br><br>
 
@@ -28,9 +28,9 @@ ENG
 1. GUI implementation with wxWidgets-3.2.1
 2. Extend incoming WiFi (WiFi Repeater) <br>
 E.X.
-<a href="[https://www.qries.com/](https://1.bp.blogspot.com/-a58Y44mHLos/YM5M7w2T3qI/AAAAAAAAAkk/vlfZYD2EzysaPR1T6PUaMTCes4T_CngBwCLcBGAsYHQ/s394/Desktop_wifi_wifi-gui.png](https://www.amazon.it/TP-Link-RE190-Ripetitore-Wireless-Compatibile/dp/B081HFWWSV?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15C6SJ4H3OENK&keywords=ripetitore&qid=1666522719&qu=eyJxc2MiOiI0LjAyIiwicXNhIjoiMy44NiIsInFzcCI6IjMuMTMifQ%3D%3D&sprefix=ripetitor%2Caps%2C309&sr=8-6&linkCode=ll1&tag=12345678054cd-21&linkId=7e90abe8e5c30a40a6ee19f33e9ea4c4&ref_=as_li_ss_tl)">
-<img src="https://m.media-amazon.com/images/I/41wAKp11-zS._AC_SL1000_.jpg" width="200" height="300"> 
-</a>
+
+<a href="https://www.amazon.it/TP-Link-RE190-Ripetitore-Wireless-Compatibile/dp/B081HFWWSV?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15C6SJ4H3OENK&keywords=ripetitore&qid=1666522719&qu=eyJxc2MiOiI0LjAyIiwicXNhIjoiMy44NiIsInFzcCI6IjMuMTMifQ%3D%3D&sprefix=ripetitor%2Caps%2C309&sr=8-6&linkCode=ll1&tag=12345678054cd-21&linkId=7e90abe8e5c30a40a6ee19f33e9ea4c4&ref_=as_li_ss_tl" target="blank"><img align="center" src="https://m.media-amazon.com/images/I/41wAKp11-zS._AC_SL1000_.jpg" height="100" width="200" /></a>
+ 
  
 <h1>  Immagini / Images </h1> <br>
 
