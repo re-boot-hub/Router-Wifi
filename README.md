@@ -12,7 +12,8 @@ Se volete usare una scheda di rete secondaria dovete disattivare la scheda di re
 The program works only with network adapters that support monitor mode <br>
 If you want to use a secondary network card you have to disable the primary network card with Tmac (Link off wifi) <br> <br>
 
-<H1>  Aggiornamenti futuri / Future updates </H1>
+<H1>  Aggiornamenti futuri / Future updates </H1><br>
+
 ITA
 1. Implementazione GUI wxWidgets-3.2.1 <br>
 2. estendere il WiFi in ingresso (Ripetitore WiFi) <br>
